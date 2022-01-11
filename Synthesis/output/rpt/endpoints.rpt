@@ -1,0 +1,30 @@
+Report End Points: 
+-----+-------+------+-------+------+-----+-----+------+--------------+--------------
+     |Group  |Launch|Capture|Shift |Delay|Depth|Slack |Begin Point   |End Point     
+-----+-------+------+-------+------+-----+-----+------+--------------+--------------
+1    |default|sysclk|sysclk |3000.0|223.4|    7|2575.1|state_reg[1]/Q|state_reg[2]/D
+2    |default|sysclk|sysclk |3000.0|221.4|    7|2577.6|state_reg[1]/Q|state_reg[0]/D
+3    |default|sysclk|sysclk |3000.0|181.9|    5|2616.6|state_reg[1]/Q|state_reg[1]/D
+-----+-------+------+-------+------+-----+-----+------+--------------+--------------
+Report End Points: 
+-----+-----+--------------+-------+------+-----+-----+------+-----------+--------------
+     |Group|Launch        |Capture|Shift |Delay|Depth|Slack |Begin Point|End Point     
+-----+-----+--------------+-------+------+-----+-----+------+-----------+--------------
+1    |I2R  |rtDefaultClock|sysclk |3000.0|268.1|    5|1993.2|tempSens[2]|state_reg[0]/D
+2    |I2R  |rtDefaultClock|sysclk |3000.0|262.7|    6|1998.1|tempSens[4]|state_reg[1]/D
+3    |I2R  |rtDefaultClock|sysclk |3000.0|250.9|    6|2009.9|tempSens[4]|state_reg[2]/D
+-----+-----+--------------+-------+------+-----+-----+------+-----------+--------------
+Report End Points: 
+-----+-----+--------------+-------+------+-----+-----+-----+-----------+---------
+     |Group|Launch        |Capture|Shift |Delay|Depth|Slack|Begin Point|End Point
+-----+-----+--------------+-------+------+-----+-----+-----+-----------+---------
+1    |I2O  |rtDefaultClock|vsysclk|2000.0|267.1|    6|432.9|tempSens[2]|rearOut  
+-----+-----+--------------+-------+------+-----+-----+-----+-----------+---------
+Report End Points: 
+-----+-----+------+-------+------+-----+-----+-----+--------------+---------
+     |Group|Launch|Capture|Shift |Delay|Depth|Slack|Begin Point   |End Point
+-----+-----+------+-------+------+-----+-----+-----+--------------+---------
+1    |R2O  |sysclk|vsysclk|1000.0|147.0|    3|121.0|state_reg[1]/Q|heater   
+2    |R2O  |sysclk|vsysclk|1000.0|142.2|    3|125.8|state_reg[1]/Q|frontOut 
+3    |R2O  |sysclk|vsysclk|1000.0|149.7|    3|129.2|state_reg[0]/Q|rearOut  
+-----+-----+------+-------+------+-----+-----+-----+--------------+---------
