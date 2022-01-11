@@ -8,7 +8,7 @@
   [![Star on GitHub](https://img.shields.io/github/stars/DoniaEsawi/HomeAutomationSystem.svg?style=social)]("https://github.com/DoniaEsawi/HomeAutomationSystem/stargazers")
     [![Fork on GitHub](https://img.shields.io/github/forks/DoniaEsawi/HomeAutomationSystem.svg?style=social)]("https://github.com/DoniaEsawi/HomeAutomationSystem/network/members")
  [![Watch on GitHub](https://img.shields.io/github/watchers/DoniaEsawi/HomeAutomationSystem?style=social)]("https://github.com/DoniaEsawi/HomeAutomationSystem/watchers")
-[![Languages on GitHub](https://img.shields.io/github/languages/count/DoniaEsawi/HomeAutomationSystem?style=social)]("")
+
 
 <h4>A system designed to control the doors, windows, fire alarm and the  temperature. Each process being automated is associated with a sensor: <br/></h4>
 <ul><li> When the sensor is LOW (0) then no action is needed, and the next 
