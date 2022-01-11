@@ -79,7 +79,7 @@ F, then the air conditioner is automatically turned on.</li>
  </h1>
 
 <div align="center">
-  <h4>This project is done by this great gang of CMP girls 👩‍💻</h4>
+  <h4>This project is done by this amazing gang of CMP girls 👩‍💻</h4>
 <table>
   <tr>
     <td align="center"><a href="https://github.com/DoniaEsawi"><img src="https://avatars.githubusercontent.com/u/56982963?v=4" width="100px;" alt=""/><br /><sub><b>Donia</b></sub></a><br />
